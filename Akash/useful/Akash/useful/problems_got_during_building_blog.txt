@@ -1,0 +1,32 @@
+How to remove local (untracked) files from the current Git working tree?
+
+1 is to show what will be deleted by using the -n option:
+git clean -n
+Clean Step - beware: this will delete files:
+git clean -f
+To remove directories, run git clean -f -d or git clean -fd
+To remove ignored files, run git clean -f -X or git clean -fX
+To remove ignored and non-ignored files, run git clean -f -x or git clean -fx
+
+
+Beautiful article on medium claps function
+https://medium.com/tomyum/our-redesign-of-mediums-claps-and-why-they-may-not-have-chosen-to-do-it-this-way-edc9ff6b586e
+
+Pymongo Documentation
+http://api.mongodb.com/python/current/tutorial.html
+
+Installation of virtualenv
+http://roundhere.net/journal/virtualenv-ubuntu-12-10/
+'/usr/local/bin/virtualenvwrapper.sh' >> .bashrc 
+for adding of the path of virtualwrapper to bachrc
+source .bashrc
+mkvirtualenv projectname -> to create virtual environment
+workon projectname to work on that project
+deactivate to get out from that virtual environment
+
+f you have requirements.txt file you can download all the dependencies by the below code
+pip3 install -r requirements.txt
+
+
+git error “Pull is not possible because you have unmerged files”?
+git add file.name && git commit -m "removed merge conflicts"

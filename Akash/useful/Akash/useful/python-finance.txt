@@ -1,0 +1,22 @@
+Only for python3 :)
+
+pandas installation
+sudo -H pip3 install pandas
+
+pandas datareader
+pip3 install pandas-datareader
+
+matplotlib
+sudo apt-get install python3-matplotlib
+
+beautifulsoup4
+pip3 install beautifulsoup4
+
+numpy
+pip3 install numpy
+
+scipy
+pip3 install scipy
+
+scikit-learn
+pip3 install scikit-learn

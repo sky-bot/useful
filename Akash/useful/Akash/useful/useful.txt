@@ -1,0 +1,46 @@
+
+
+Useful Blogs :) 
+
+How I Read 2 Books A Week
+https://medium.com/@dariusforoux/how-i-read-2-books-a-week-fa463b7d08d8
+
+
+7 Free tools for designers: map creation
+https://uxplanet.org/7-free-tools-for-designers-map-creation-16ea68c83ffd
+
+
+The 10 Best Coding Challenge Websites 
+https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654
+
+
+30 Amazing Machine Learning Projects for the Past Year (v.2018)
+https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7
+
+
+To change desktop background with python scripting
+https://stackoverflow.com/questions/1977694/how-can-i-change-my-desktop-background-with-python
+
+
+Best Machine Learning, NLP, and Python Tutorials I’ve Found
+https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78
+
+
+Sentiment Analysis: Concept, Analysis and Applications
+https://towardsdatascience.com/sentiment-analysis-concept-analysis-and-applications-6c94d6f58c17
+
+
+Extending the Google Assistant
+https://developers.google.com/actions/extending-the-assistant
+
+
+Extracting Text From pdf
+https://automatetheboringstuff.com/chapter13/
+
+
+Flask-blog
+http://charlesleifer.com/blog/how-to-make-a-flask-blog-in-one-hour-or-less/
+
+
+ML APIs
+https://towardsdatascience.com/20-apis-that-prove-what-ml-and-prediction-is-capable-of-257bb7d71ed2
